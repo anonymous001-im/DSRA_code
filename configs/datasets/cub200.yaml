@@ -1,0 +1,3 @@
+DATASET:
+  NAME: "CUB200"
+  ROOT: "/root/autodl-tmp/"

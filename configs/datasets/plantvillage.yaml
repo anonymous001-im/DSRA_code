@@ -1,0 +1,4 @@
+DATASET:
+  NAME: "PlantVillage"
+  ROOT: "/root/autodl-tmp"
+  SUBSAMPLE_CLASSES: "all"
